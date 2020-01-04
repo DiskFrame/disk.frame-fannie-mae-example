@@ -1,0 +1,1 @@
+docker build -t xiaodaidocker2019/disk.frame-fm-17g ./
